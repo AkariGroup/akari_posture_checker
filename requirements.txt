@@ -1,0 +1,7 @@
+akari-client[depthai]
+akari-proto
+opencv-python
+mediapipe
+depthai
+playsound
+absl-py
